@@ -1,0 +1,11 @@
+
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/d221cf3e-3b38-428b-a284-b26b2da72b18/download/2017-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/0ddb85a8-bcbd-4650-92c0-786a00d5ef1f/download/ementas_parlamentares_dados2017_2018.xlsx'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/1dc5835a-b406-4924-b657-51d0344168cf/download/2014-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/f2c24129-61f4-42b9-a761-bfcc74d1900b/download/2015-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/a762f0b4-d44c-4de5-b492-239d1a555533/download/2010-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/902b02d8-a531-47b8-83d0-3db4f26eeb70/download/2009-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/8f45e48f-03c3-46ae-8787-d2aa1c15ffb0/download/2016-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/755673be-c2d5-4ee8-8762-9693bacac0bb/download/2011-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/dfad1d62-d671-4dcd-8a3c-2f9405de9c36/download/2013-emendas.csv'}
+ {'href_file': 'https://dados.turismo.gov.br/pt_BR/dataset/46ebeaac-c991-40e1-9c89-f1e736a2bd4b/resource/a529440f-63e7-4cf6-ba85-23b7518d70c5/download/2012-emendas.csv'}
